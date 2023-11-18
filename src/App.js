@@ -69,6 +69,8 @@ const App = () => {
       </div>
       <p className="seconds">Seconds: {time} sec(s)</p>
       <p className="data">{inputText}</p>
+
+      <p className="footer">&copy;2023. Made by Omotosho E. Oluwasina.</p>
     </div>
   )
 }
